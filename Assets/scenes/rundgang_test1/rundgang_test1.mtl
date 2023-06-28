@@ -1,0 +1,146 @@
+
+newmtl Phong000C0F3A
+Kd  0 0.04705882 0.05882353
+Ks  0 0 0
+Ka  0 0 0
+d  0.227451
+Ns  0
+illum 2
+
+
+
+
+newmtl Phong781DEF
+Kd  0.4705882 0.1137255 0.9372549
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl PhongFA37A8
+Kd  0.9803922 0.2156863 0.6588235
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Phong141E58
+Kd  0.07843138 0.1176471 0.345098
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardC3AD3D
+Kd  0.7647059 0.6784314 0.2392157
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardC373A1
+Kd  0.7647059 0.4509804 0.6313726
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardF3FF00
+Kd  0.9529412 1 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard4351F8
+Kd  0.2627451 0.3176471 0.972549
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl FlatFFFFFF087e1ac6-e252-4ffc-82fb-5e0546c00ef5
+Kd  1 1 1
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+map_Kd 087e1ac6-e252-4ffc-82fb-5e0546c00ef5.png
+
+
+
+
+newmtl FlatE1C678087e1ac6-e252-4ffc-82fb-5e0546c00ef5
+Kd  0.8823529 0.7764706 0.4705882
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+map_Kd 087e1ac6-e252-4ffc-82fb-5e0546c00ef5.png
+
+
+
+
+newmtl FlatA546AA087e1ac6-e252-4ffc-82fb-5e0546c00ef5
+Kd  0.6470588 0.2745098 0.6666667
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 0
+map_Kd 087e1ac6-e252-4ffc-82fb-5e0546c00ef5.png
+
+
+
+
+newmtl PhongC373A1
+Kd  0.7647059 0.4509804 0.6313726
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Phong9B44C3
+Kd  0.6078432 0.2666667 0.7647059
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
