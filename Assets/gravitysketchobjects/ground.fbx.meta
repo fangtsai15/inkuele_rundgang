@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 248c0c478eb4c5e45a445ae0ad2844df
+guid: af8239b0dc742104291b38266e531506
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
@@ -7,48 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Phong_F50067.003
-    second: {fileID: 2100000, guid: 96f03626e4a3de145adda305592dc2af, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_0000FF.001
-    second: {fileID: 2100000, guid: 6b5adc04cc633804d99f49ea2c214032, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_0000FF51.003
-    second: {fileID: 2100000, guid: 9bc23360c48871e42904509eaa631a8b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_40D033.001
-    second: {fileID: 2100000, guid: 25a5ec2c0f059364ab8156f8828b55f2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_54FF3A.003
-    second: {fileID: 2100000, guid: 06be2d6d4cdf6d2489c33c0c48d2c861, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_DE4CFF.001
-    second: {fileID: 2100000, guid: 7fbd0f00e9c161e4cb3d98ab89e37039, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_F3FF00.003
-    second: {fileID: 2100000, guid: d69758c25b88d3e4a9aa8d269360175c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_FF0300.001
-    second: {fileID: 2100000, guid: a675f4734fc935843b1ec07db57db3c3, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Standard_FFFF00.001
-    second: {fileID: 2100000, guid: 9901f6e8a257128428fb5c59c6ff6732, type: 2}
+      name: Standard_C800FF
+    second: {fileID: 2100000, guid: 095699c01ebfb214782efad174328921, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

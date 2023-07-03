@@ -3,7 +3,27 @@ guid: 6d496eaa66dddc245819407f9b517ea8
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_A546AA_087e1ac6-e252-4ffc-82fb-5e0546c00ef5
+    second: {fileID: 2100000, guid: 37d3e2bb46f725b4cbb29bcb3675ce0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_E1C678_087e1ac6-e252-4ffc-82fb-5e0546c00ef5
+    second: {fileID: 2100000, guid: 5700a3fe19039294a8b69db2934127ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flat_FFFFFF_087e1ac6-e252-4ffc-82fb-5e0546c00ef5
+    second: {fileID: 2100000, guid: 0659f0286ff7f6242867db2855c9b57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Phong_C373A1
+    second: {fileID: 2100000, guid: 22339e7d1f8b7204a900a7110eec20ae, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
